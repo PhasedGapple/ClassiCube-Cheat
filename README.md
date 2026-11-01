@@ -12,5 +12,13 @@ A cheat for ClassiCube made in C# and WinForms. It uses Cheat Engine to find the
 **Q: Why are most features not working?**
 - A: Try closing the ClassiCube Home window and only open the ingame window AND MAKE SURE YOU ARE IN ENHANCED MODE (select in ClassiCube -> Options -> Mode)
 
-# Download and Showcase:
+## Download and Showcase:
 Avaiable at https://phasedgapple.github.io/ClassiCube-Cheat/
+
+## Features:
+- Toggle NoClip Permission
+- Toggle Fly Permission
+- Toggle Respawn Permission
+- Toggle Speed Permission
+- Teleport to Position
+- Override Horspeed (basically the speed you walk in)
